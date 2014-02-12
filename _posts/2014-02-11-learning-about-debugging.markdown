@@ -14,4 +14,4 @@ were watching.
 	I've learned a lot already from working on this app. It's helped me to grasp certain aspects of Java. Also, yesterday 
 I had to use the debugging tools for the first time, as I couldn't track down a bug causing the app to crash.
 
-[github]https://github.com/LetsHangout/SimpleNotetaking/tree/master/src/com/letshangout/simplenotetaking
+[github]: https://github.com/LetsHangout/SimpleNotetaking/tree/master/src/com/letshangout/simplenotetaking

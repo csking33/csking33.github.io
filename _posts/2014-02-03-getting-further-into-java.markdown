@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting further into Java"
-date:   2014-01-25 22:31:26
+date:   2014-02-03 22:31:26
 categories: java
 ---
 
